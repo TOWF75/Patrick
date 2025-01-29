@@ -3,7 +3,7 @@ img {
 }
 
 body {
-    text-align: left;
+    text-align: "left";
     font-family: "Arial";
     background: rgb(9, 41, 21);
     color: rgb(167, 57, 13);
